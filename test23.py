@@ -1,3 +1,6 @@
 class R:
     def __init__(self):
-        self.x = 78
+        self.x = 789
+
+    def view(self):
+        return self.x
