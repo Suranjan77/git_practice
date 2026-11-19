@@ -1,3 +1,3 @@
 class R:
     def __init__(self):
-        self.x = 7
+        self.x = 78
