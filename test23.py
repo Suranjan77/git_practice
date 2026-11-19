@@ -4,3 +4,6 @@ class R:
 
     def view(self):
         return self.x
+
+    def add(self, y):
+        return self.x + y
